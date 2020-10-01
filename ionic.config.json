@@ -1,0 +1,7 @@
+{
+  "name": "click_crop",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
